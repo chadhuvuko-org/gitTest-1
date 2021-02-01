@@ -1,0 +1,6 @@
+Hi this second file of this repositiory
+adding it from another user git account
+will do here pull request
+
+Regards,
+nerchuko
